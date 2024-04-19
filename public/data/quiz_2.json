@@ -1,0 +1,123 @@
+{
+    "results": [
+        {
+            "image_path": "/images/quiz_2/1.jpeg",
+            "question": "Apa perbedaan antara sampah organik dan non-organik?",
+            "correct_answer": "Sampah organik berasal dari bahan-bahan alami seperti sisa makanan dan daun, sedangkan sampah non-organik terdiri dari plastik, kertas, dan logam.",
+            "incorrect_answers": [
+                "Sampah organik hanya berupa sisa makanan, sedangkan sampah non-organik hanya berupa plastik.",
+                "Sampah organik tidak dapat didaur ulang, sedangkan sampah non-organik dapat didaur ulang.",
+                "Sampah organik dan non-organik memiliki warna yang berbeda."
+            ],
+            "feedback_correct": "Anda benar! Sampah organik berasal dari bahan-bahan alami, sedangkan sampah non-organik terdiri dari bahan buatan manusia.",
+            "feedback_incorrect": "Sayangnya, jawaban Anda salah. Sampah organik dan non-organik memiliki perbedaan dalam asal bahan."
+        },
+        {
+            "image_path": "/images/quiz_2/2.jpeg",
+            "question": "Mengapa penting untuk memilah sampah di rumah?",
+            "correct_answer": "Memilah sampah membantu memudahkan proses daur ulang dan mengurangi dampak negatif terhadap lingkungan.",
+            "incorrect_answers": [
+                "Memilah sampah hanya untuk mengurangi volume sampah di rumah.",
+                "Memilah sampah hanya untuk mengikuti aturan pemerintah.",
+                "Memilah sampah tidak memiliki manfaat khusus."
+            ],
+            "feedback_correct": "Anda benar! Memilah sampah membantu menjaga lingkungan dan memfasilitasi proses daur ulang.",
+            "feedback_incorrect": "Sayangnya, jawaban Anda salah. Memilah sampah memiliki manfaat besar untuk lingkungan."
+        },
+        {
+            "image_path": "/images/quiz_2/3.jpeg",
+            "question": "Apa yang dimaksud dengan tempat pembuangan akhir sampah?",
+            "correct_answer": "Tempat pembuangan akhir sampah adalah lokasi di mana sampah akhirnya ditempatkan setelah melalui proses pengolahan dan daur ulang.",
+            "incorrect_answers": [
+                "Tempat pembuangan akhir sampah adalah tempat sementara untuk menyimpan sampah sebelum diangkut ke tempat lain.",
+                "Tempat pembuangan akhir sampah adalah tempat untuk memilah sampah.",
+                "Tempat pembuangan akhir sampah adalah tempat untuk mengolah sampah menjadi produk baru."
+            ],
+            "feedback_correct": "Anda benar! Tempat pembuangan akhir sampah adalah tempat akhir bagi sampah setelah melalui proses pengolahan.",
+            "feedback_incorrect": "Sayangnya, jawaban Anda salah. Tempat pembuangan akhir sampah adalah tempat akhir bagi sampah yang telah diolah."
+        },
+        {
+            "image_path": "/images/quiz_2/4.jpeg",
+            "question": "Bagaimana cara yang paling efektif untuk memisahkan sampah organik dan non organik di rumah?",
+            "correct_answer": "Menggunakan dua tempat sampah terpisah, satu untuk sampah organik dan satu lagi untuk sampah non organik",
+            "incorrect_answers": [
+                "Membuang semua sampah ke dalam satu tempat sampah dan memisahkannya nanti",
+                "Membuang sampah organik langsung ke alam",
+                "Membakar sampah non organik"
+            ],
+            "feedback_correct": "Benar, menggunakan dua tempat sampah terpisah adalah cara yang paling efektif untuk memisahkan sampah organik dan non organik di rumah.",
+            "feedback_incorrect": "Maaf, jawaban Anda salah. Cara yang paling efektif untuk memisahkan sampah organik dan non organik di rumah adalah dengan menggunakan dua tempat sampah terpisah."
+        },
+        {
+            "image_path": "/images/quiz_2/5.jpeg",
+            "question": "Apa yang bisa dilakukan dengan sampah organik untuk mengurangi jumlah sampah yang dibuang ke tempat pembuangan akhir?",
+            "correct_answer": "Mendaur ulang sampah organik menjadi kompos",
+            "incorrect_answers": [
+                "Membuangnya ke sungai",
+                "Membakarnya di halaman belakang",
+                "Membuangnya ke jalan"
+            ],
+            "feedback_correct": "Benar, mendaur ulang sampah organik menjadi kompos adalah cara yang efektif untuk mengurangi jumlah sampah yang dibuang ke tempat pembuangan akhir.",
+            "feedback_incorrect": "Maaf, jawaban Anda salah. Mendaur ulang sampah organik menjadi kompos adalah cara yang efektif untuk mengurangi jumlah sampah yang dibuang ke tempat pembuangan akhir."
+        },
+        {
+            "image_path": "/images/quiz_2/6.jpeg",
+            "question": "Manakah dari berikut ini yang termasuk sampah organik?",
+            "correct_answer": "Sisa makanan",
+            "incorrect_answers": [
+                "Botol plastik",
+                "Baterai bekas",
+                "Kaleng minuman"
+            ],
+            "feedback_correct": "Benar, sisa makanan adalah contoh dari sampah organik.",
+            "feedback_incorrect": "Maaf, jawaban Anda salah. Sisa makanan adalah contoh dari sampah organik."
+        },
+        {
+            "image_path": "/images/quiz_2/7.jpeg",
+            "question": "Apa dampak dari membuang sampah plastik ke sungai?",
+            "correct_answer": "Membuang sampah plastik ke sungai dapat menyebabkan pencemaran air, membahayakan makhluk hidup di dalamnya, dan merusak ekosistem sungai.",
+            "incorrect_answers": [
+                "Memperkaya keanekaragaman hayati di sungai.",
+                "Mengurangi polusi udara di sekitar sungai.",
+                "Meningkatkan kualitas air sungai."
+            ],
+            "feedback_correct": "Anda benar! Membuang sampah plastik ke sungai memiliki dampak negatif terhadap lingkungan dan makhluk hidup di dalamnya.",
+            "feedback_incorrect": "Sayangnya, jawaban Anda salah. Membuang sampah plastik ke sungai dapat merusak ekosistem dan menyebabkan pencemaran air."
+        },
+        {
+            "image_path": "/images/quiz_2/8.jpeg",
+            "question": "Apa manfaat dari pengelolaan sampah yang baik di lingkungan perumahan?",
+            "correct_answer": "Pengelolaan sampah yang baik di lingkungan perumahan dapat menjaga kebersihan, mencegah penyebaran penyakit, dan mengurangi dampak negatif terhadap lingkungan.",
+            "incorrect_answers": [
+                "Tidak ada manfaat khusus dari pengelolaan sampah di lingkungan perumahan.",
+                "Hanya untuk memenuhi aturan pemerintah.",
+                "Hanya untuk mengurangi volume sampah di rumah."
+            ],
+            "feedback_correct": "Anda benar! Pengelolaan sampah yang baik di lingkungan perumahan memiliki manfaat besar bagi kesehatan dan lingkungan sekitar.",
+            "feedback_incorrect": "Sayangnya, jawaban Anda salah. Pengelolaan sampah di lingkungan perumahan sangat penting untuk menjaga kebersihan dan mencegah penyebaran penyakit."
+        },
+        {
+            "image_path": "/images/quiz_2/9.jpeg",
+            "question": "Apa yang dimaksud dengan penampungan sementara dalam pengelolaan sampah di masyarakat?",
+            "correct_answer": "Tempat di mana sampah dikumpulkan sebelum diangkut ke tempat pembuangan akhir",
+            "incorrect_answers": [
+                "Tempat di mana sampah dibakar",
+                "Tempat di mana sampah dibuang ke sungai",
+                "Tempat di mana sampah dijual"
+            ],
+            "feedback_correct": "Benar, penampungan sementara adalah tempat di mana sampah dikumpulkan sebelum diangkut ke tempat pembuangan akhir.",
+            "feedback_incorrect": "Maaf, jawaban Anda salah. Penampungan sementara adalah tempat di mana sampah dikumpulkan sebelum diangkut ke tempat pembuangan akhir."
+        },
+        {
+            "image_path": "/images/quiz_2/10.jpeg",
+            "question": "Apa yang dapat kita lakukan untuk mengurangi penggunaan plastik sekali pakai?",
+            "correct_answer": "Kita dapat menggunakan tas belanja kain, menghindari penggunaan sedotan plastik, dan memilih produk yang memiliki kemasan ramah lingkungan.",
+            "incorrect_answers": [
+                "Tidak ada yang dapat kita lakukan untuk mengurangi penggunaan plastik sekali pakai.",
+                "Menggunakan plastik sekali pakai lebih praktis dan efisien.",
+                "Menggunakan plastik sekali pakai tidak berdampak buruk bagi lingkungan."
+            ],
+            "feedback_correct": "Anda benar! Mengurangi penggunaan plastik sekali pakai adalah langkah penting dalam menjaga lingkungan."
+        }
+    ]
+}

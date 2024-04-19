@@ -1,0 +1,124 @@
+{
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?",
+      "correct_answer": "Final",
+      "incorrect_answers": [
+        "Static",
+        "Private",
+        "Public"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "question": "Which song previously recorded by Elvis Presley was covered by UB40 with a reggae beat?",
+      "correct_answer": "Can&#039;t Help Falling in Love",
+      "incorrect_answers": [
+        "Jailhouse Rock",
+        "In the Ghetto",
+        "Wooden Heart"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "What is the name of Cream the Rabbit&#039;s mom in the &quot;Sonic the Hedgehog&quot; series?",
+      "correct_answer": "Vanilla",
+      "incorrect_answers": [
+        "Peach",
+        "Strawberry",
+        "Mint"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Musicals &amp; Theatres",
+      "question": "The Andrew Lloyd Webber musical &quot;Cats&quot; is based off a book of poems written by which author?",
+      "correct_answer": "T.S. Elliot",
+      "incorrect_answers": [
+        "Andrew Lloyd Webber",
+        "Emily Dickenson",
+        "Robert Frost"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "In what year was McDonald&#039;s founded?",
+      "correct_answer": "1955",
+      "incorrect_answers": [
+        "1964",
+        "1951",
+        "1947"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Sports",
+      "question": "Which soccer team won the Copa Am&eacute;rica 2015 Championship ?",
+      "correct_answer": "Chile",
+      "incorrect_answers": [
+        "Argentina",
+        "Brazil",
+        "Paraguay"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Board Games",
+      "question": "In Magic: The Gathering, what was a tribute card to Jamie Wakefield&#039;s late wife Marilyn, who loved horses?",
+      "correct_answer": "Timbermare",
+      "incorrect_answers": [
+        "Loyal Pegasus",
+        "Vryn Wingmare",
+        "Sungrace Pegasus"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "What is the oldest US state?",
+      "correct_answer": "Delaware",
+      "incorrect_answers": [
+        "Rhode Island",
+        "Maine",
+        "Virginia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "The Battle of Hastings was fought in which year?",
+      "correct_answer": "1066",
+      "incorrect_answers": [
+        "911",
+        "1204",
+        "1420"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In the &quot;Halo&quot; franchise, in what country is New Mombasa?",
+      "correct_answer": "Kenya",
+      "incorrect_answers": [
+        "India",
+        "Turkey",
+        "Slovakia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+    "results": [
+        {
+            "image_path": "/images/quiz_1/1.jpeg",
+            "question": "Apa yang sedang dilakukan oleh anak dalam gambar?",
+            "correct_answer": "Memilih sampah-sampah yang layak didaur ulang",
+            "incorrect_answers": [
+                "Membuang sampah sembarangan",
+                "Membuang sampah ke sungai",
+                "Menyapu taman"
+            ],
+            "feedback_correct": "Anda benar! Anak dalam gambar sedang memilih sampah-sampah yang layak didaur ulang dengan membuangnya ke dalam tong sampah",
+            "feedback_incorrect": "Jawaban Anda tidak tepat! Anak dalam gambar sedang melakukan tindakan positif dengan memilih sampah-sampah yang layak didaur ulang"
+        },
+        {
+            "image_path": "/images/quiz_1/2.jpeg",
+            "question": "Apa dampak dari tumpukan sampah plastik di tepi pantai seperti yang terlihat dalam gambar?",
+            "correct_answer": "Burung-burung terancam karena memakan sampah plastik",
+            "incorrect_answers": [
+                "Burung-burung menjadi lebih sehat",
+                "Lingkungan menjadi lebih bersih",
+                "Pariwisata di pantai menjadi lebih ramai"
+            ],
+            "feedback_correct": "Anda benar! Tumpukan sampah plastik di tepi pantai dapat menyebabkan burung-burung terancam karena mereka dapat memakan sampah tersebut secara tidak sengaja.",
+            "feedback_incorrect": "Maaf, jawaban Anda tidak tepat. Tumpukan sampah plastik di tepi pantai dapat menyebabkan burung-burung terancam karena mereka dapat memakan sampah tersebut secara tidak sengaja."
+        },
+        {
+            "image_path": "/images/quiz_1/3.jpeg",
+            "question": "Apa yang bisa dilakukan pria dalam gambar untuk mengurangi sampah plastik?",
+            "correct_answer": "Menggunakan kantong belanja kain yang dapat digunakan berulang kali",
+            "incorrect_answers": [
+                "Menggunakan kantong plastik sekali pakai",
+                "Membuang kantong plastik ke sungai",
+                "Membuang kantong plastik ke tumpukan sampah"
+            ],
+            "feedback_correct": "Benar! Pria dalam gambar sebaiknya menggunakan kantong belanja kain yang dapat digunakan berulang kali untuk mengurangi penggunaan kantong plastik sekali pakai.",
+            "feedback_incorrect": "Maaf, jawaban Anda tidak tepat. Pria dalam gambar sebaiknya menggunakan kantong belanja kain yang dapat digunakan berulang kali untuk mengurangi penggunaan kantong plastik sekali pakai."
+        },
+        {
+            "image_path": "/images/quiz_1/4.jpeg",
+            "question": "Apa yang dilakukan oleh pria dalam gambar?",
+            "correct_answer": "Memilah sampah organik dan non-organik",
+            "incorrect_answers": [
+                "Membuang semua sampah sembarangan",
+                "Membakar sampah di halaman belakang",
+                "Mengumpulkan sampah untuk dijual"
+            ],
+            "feedback_correct": "Selamat! Anda benar. Pria dalam gambar sedang memilah sampah organik dan non-organik untuk pengelolaan sampah yang lebih baik.",
+            "feedback_incorrect": "Maaf, jawaban Anda tidak tepat. Pria dalam gambar sedang melakukan tindakan positif dengan memilah sampah organik dan non-organik untuk pengelolaan sampah yang lebih baik."
+        },
+        {
+            "image_path": "/images/quiz_1/5.jpeg",
+            "question": "Apa yang dapat dilakukan untuk mencegah pencemaran sungai seperti yang terlihat dalam gambar?",
+            "correct_answer": "Melakukan kegiatan pembersihan sungai secara rutin",
+            "incorrect_answers": [
+                "Membuang sampah ke sungai",
+                "Menggunakan sungai sebagai tempat pembuangan sampah",
+                "Membuang sampah ke lingkungan sekitar sungai"
+            ],
+            "feedback_correct": "Tepat! Salah satu tindakan yang dapat dilakukan untuk mencegah pencemaran sungai adalah melakukan kegiatan pembersihan sungai secara rutin seperti yang terlihat dalam gambar.",
+            "feedback_incorrect": "Maaf, jawaban Anda tidak tepat. Untuk mencegah pencemaran sungai, salah satu tindakan yang dapat dilakukan adalah melakukan kegiatan pembersihan sungai secara rutin seperti yang terlihat dalam gambar."
+        },
+        {
+            "image_path": "/images/quiz_1/6.jpeg",
+            "question": "Apa manfaat dari menggunakan botol air minum reusable seperti yang terlihat dalam gambar?",
+            "correct_answer": "Menjaga lingkungan dari polusi plastik",
+            "incorrect_answers": [
+                "Menggunakan lebih banyak botol plastik",
+                "Membuang botol air minum ke sungai",
+                "Menggunakan botol air minum sekali pakai"
+            ],
+            "feedback_correct": "Benar! Menggunakan botol air minum reusable dapat membantu menjaga lingkungan dari polusi plastik dengan mengurangi penggunaan botol plastik sekali pakai.",
+            "feedback_incorrect": "Maaf, jawaban Anda tidak tepat. Menggunakan botol air minum reusable seperti yang terlihat dalam gambar dapat membantu menjaga lingkungan dari polusi plastik dengan mengurangi penggunaan botol plastik sekali pakai."
+        },
+        {
+            "image_path": "/images/quiz_1/7.jpeg",
+            "question": "Apa yang dapat dilakukan oleh masyarakat untuk menjaga kebersihan pantai?",
+            "correct_answer": "Melakukan kegiatan pembersihan pantai secara rutin",
+            "incorrect_answers": [
+                "Meninggalkan sampah sembarangan di pantai",
+                "Mengadakan kegiatan pesta di pantai",
+                "Membuang sampah di pinggir pantai"
+            ],
+            "feedback_correct": "Tepat! Salah satu tindakan yang dapat dilakukan oleh masyarakat untuk menjaga kebersihan pantai adalah dengan melakukan kegiatan pembersihan pantai secara rutin seperti yang terlihat dalam gambar.",
+            "feedback_incorrect": "Maaf, jawaban Anda tidak tepat. Salah satu tindakan yang dapat dilakukan oleh masyarakat untuk menjaga kebersihan pantai adalah dengan melakukan kegiatan pembersihan pantai secara rutin seperti yang terlihat dalam gambar."
+        },
+        {
+            "image_path": "/images/quiz_1/8.jpeg",
+            "question": "Apa manfaat penggunaan kompos dari sampah organik seperti yang terlihat dalam gambar?",
+            "correct_answer": "Meningkatkan kesuburan tanah",
+            "incorrect_answers": [
+                "Mencemari lingkungan",
+                "Mempercepat proses pembusukan sampah",
+                "Menghasilkan gas berbahaya"
+            ],
+            "feedback_correct": "Benar! Salah satu manfaat penggunaan kompos dari sampah organik adalah meningkatkan kesuburan tanah untuk pertanian seperti yang terlihat dalam gambar.",
+            "feedback_incorrect": "Maaf, jawaban Anda tidak tepat. Salah satu manfaat penggunaan kompos dari sampah organik adalah meningkatkan kesuburan tanah untuk pertanian seperti yang terlihat dalam gambar."
+        },
+        {
+            "image_path": "/images/quiz_1/9.jpeg",
+            "question": "Apa pesan yang ingin disampaikan oleh gambar tersebut?",
+            "correct_answer": "Pentingnya membuang sampah pada tempatnya",
+            "incorrect_answers": [
+                "Membuang sampah sembarangan adalah perilaku yang baik",
+                "Membuang sampah pada tempatnya adalah perilaku yang buruk",
+                "Lingkungan akan tetap bersih tanpa perlu usaha"
+            ],
+            "feedback_correct": "Tepat! Pesan yang ingin disampaikan oleh gambar adalah pentingnya membuang sampah pada tempatnya untuk menjaga kebersihan lingkungan.",
+            "feedback_incorrect": "Maaf, jawaban Anda tidak tepat. Pesan yang ingin disampaikan oleh gambar adalah pentingnya membuang sampah pada tempatnya untuk menjaga kebersihan lingkungan."
+        },
+        {
+            "image_path": "/images/quiz_1/10.jpeg",
+            "question": "Apa yang dapat dilakukan oleh individu untuk mencegah sampah plastik masuk ke selokan?",
+            "correct_answer": "Melakukan kegiatan pembersihan selokan secara rutin dan edukasi masyarakat sekitar",
+            "incorrect_answers": [
+                "Membuang sampah ke selokan",
+                "Menggunakan plastik sekali pakai",
+                "Menimbun sampah di sekitar selokan"
+            ],
+            "feedback_correct": "Selamat! Salah satu tindakan yang dapat dilakukan oleh individu untuk mencegah sampah plastik masuk ke selokan adalah dengan melakukan kegiatan pembersihan selokan secara rutin seperti yang terlihat dalam gambar.",
+            "feedback_incorrect": "Maaf, jawaban Anda tidak tepat. Salah satu tindakan yang dapat dilakukan oleh individu untuk mencegah sampah plastik masuk ke selokan adalah dengan melakukan kegiatan pembersihan selokan secara rutin seperti yang terlihat dalam gambar."
+        }
+    ]
+}

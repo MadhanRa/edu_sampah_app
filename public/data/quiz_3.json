@@ -1,0 +1,124 @@
+{
+    "results": [
+        {
+            "image_path": "/images/quiz_3/1.webp",
+            "question": "Apa itu Eco-Enzhyme?",
+            "correct_answer": "Cairan serbaguna yang ramah lingkungan dan dihasilkan dari fermentasi sampah organik seperti buah dan sayuran",
+            "incorrect_answers": [
+                "Cairan kimia yang berbahaya bagi lingkungan",
+                "Minuman berenergi yang dibuat dari buah dan sayuran",
+                "Suplemen makanan yang dibuat dari buah dan sayuran"
+            ],
+            "feedback_correct": "Benar, Eco-Enzhyme adalah cairan serbaguna yang ramah lingkungan dan dihasilkan dari fermentasi sampah organik seperti buah dan sayuran.",
+            "feedback_incorrect": "Maaf, jawaban Anda salah. Eco-Enzhyme adalah cairan serbaguna yang ramah lingkungan dan dihasilkan dari fermentasi sampah organik seperti buah dan sayuran."
+        },
+        {
+            "image_path": "/images/quiz_3/2.webp",
+            "question": "Bahan apa saja yang dibutuhkan untuk membuat Eco-Enzhyme?",
+            "correct_answer": "Air, gula, dan sampah organik seperti buah dan sayuran",
+            "incorrect_answers": [
+                "Air dan gula saja",
+                "Sampah organik saja",
+                "Air, gula, dan sampah anorganik"
+            ],
+            "feedback_correct": "Benar, bahan yang dibutuhkan untuk membuat Eco-Enzhyme adalah air, gula, dan sampah organik seperti buah dan sayuran.",
+            "feedback_incorrect": "Maaf, jawaban Anda salah. Bahan yang dibutuhkan untuk membuat Eco-Enzhyme adalah air, gula, dan sampah organik seperti buah dan sayuran."
+        },
+        {
+            "image_path": "/images/quiz_3/3.webp",
+            "question": "Berapa lama proses fermentasi dalam pembuatan Eco-Enzhyme?",
+            "correct_answer": "Tiga bulan",
+            "incorrect_answers": [
+                "Satu minggu",
+                "Satu bulan",
+                "Dua bulan"
+            ],
+            "feedback_correct": "Benar, proses fermentasi dalam pembuatan Eco-Enzhyme memakan waktu tiga bulan.",
+            "feedback_incorrect": "Maaf, jawaban Anda salah. Proses fermentasi dalam pembuatan Eco-Enzhyme memakan waktu tiga bulan."
+        },
+        {
+            "image_path": "/images/quiz_3/4.webp",
+            "question": "Apa yang dihasilkan dari proses fermentasi dalam pembuatan Eco-Enzhyme?",
+            "correct_answer": "Alkohol dan/atau asam asetat",
+            "incorrect_answers": [
+                "Gas metana",
+                "Gas hidrogen",
+                "Gas nitrogen"
+            ],
+            "feedback_correct": "Benar, proses fermentasi dalam pembuatan Eco-Enzhyme menghasilkan alkohol dan/atau asam asetat.",
+            "feedback_incorrect": "Maaf, jawaban Anda salah. Proses fermentasi dalam pembuatan Eco-Enzhyme menghasilkan alkohol dan/atau asam asetat."
+        },
+        {
+            "image_path": "/images/quiz_3/5.webp",
+            "question": "Apa manfaat Eco-Enzhyme untuk lingkungan?",
+            "correct_answer": "Mengurangi jumlah sampah organik yang menumpuk di TPA",
+            "incorrect_answers": [
+                "Meningkatkan jumlah sampah organik yang menumpuk di TPA",
+                "Mengurangi jumlah sampah anorganik yang menumpuk di TPA",
+                "Meningkatkan jumlah sampah anorganik yang menumpuk di TPA"
+            ],
+            "feedback_correct": "Benar, Eco-Enzhyme dapat mengurangi jumlah sampah organik yang menumpuk di TPA.",
+            "feedback_incorrect": "Maaf, jawaban Anda salah. Eco-Enzhyme dapat mengurangi jumlah sampah organik yang menumpuk di TPA."
+        },
+        {
+            "image_path": "/images/quiz_2/2.jpeg",
+            "question": "Apa manfaat Eco-Enzhyme untuk rumah tangga?",
+            "correct_answer": "Dapat digunakan sebagai pembersih serbaguna",
+            "incorrect_answers": [
+                "Dapat digunakan sebagai pengganti bahan bakar",
+                "Dapat digunakan sebagai pengganti air minum",
+                "Dapat digunakan sebagai pengganti cat dinding"
+            ],
+            "feedback_correct": "Benar, Eco-Enzhyme dapat digunakan sebagai pembersih serbaguna di rumah tangga.",
+            "feedback_incorrect": "Maaf, jawaban Anda salah. Eco-Enzhyme dapat digunakan sebagai pembersih serbaguna di rumah tangga."
+        },
+        {
+            "image_path": "/images/quiz_3/7.webp",
+            "question": "Apa manfaat Eco-Enzhyme untuk pertanian?",
+            "correct_answer": "Dapat digunakan sebagai pupuk cair dan pengusir hama",
+            "incorrect_answers": [
+                "Dapat digunakan sebagai pestisida kimia",
+                "Dapat digunakan sebagai pupuk kimia",
+                "Dapat digunakan sebagai insektisida kimia"
+            ],
+            "feedback_correct": "Benar, Eco-Enzhyme dapat digunakan sebagai pupuk cair dan pengusir hama dalam pertanian.",
+            "feedback_incorrect": "Maaf, jawaban Anda salah. Eco-Enzhyme dapat digunakan sebagai pupuk cair dan pengusir hama dalam pertanian."
+        },
+        {
+            "image_path": "/images/quiz_3/8.webp",
+            "question": "Apa yang terjadi pada bulan pertama dalam proses fermentasi pembuatan Eco-Enzhyme?",
+            "correct_answer": "Menghasilkan alkohol",
+            "incorrect_answers": [
+                "Menghasilkan gas metana",
+                "Menghasilkan gas hidrogen",
+                "Menghasilkan gas nitrogen"
+            ],
+            "feedback_correct": "Benar, pada bulan pertama dalam proses fermentasi pembuatan Eco-Enzhyme, akan menghasilkan alkohol.",
+            "feedback_incorrect": "Maaf, jawaban Anda salah. Pada bulan pertama dalam proses fermentasi pembuatan Eco-Enzhyme, akan menghasilkan alkohol."
+        },
+        {
+            "image_path": "/images/quiz_3/8.webp",
+            "question": "Apa yang terjadi pada bulan kedua dalam proses fermentasi pembuatan Eco-Enzhyme?",
+            "correct_answer": "Menghasilkan cuka",
+            "incorrect_answers": [
+                "Menghasilkan gas metana",
+                "Menghasilkan gas hidrogen",
+                "Menghasilkan gas nitrogen"
+            ],
+            "feedback_correct": "Benar, pada bulan kedua dalam proses fermentasi pembuatan Eco-Enzhyme, akan menghasilkan cuka.",
+            "feedback_incorrect": "Maaf, jawaban Anda salah. Pada bulan kedua dalam proses fermentasi pembuatan Eco-Enzhyme, akan menghasilkan cuka."
+        },
+        {
+            "image_path": "/images/quiz_3/10.webp",
+            "question": "Apa yang terjadi pada bulan ketiga dalam proses fermentasi pembuatan Eco-Enzhyme?",
+            "correct_answer": "Eco-Enzhyme sudah jadi dan siap digunakan",
+            "incorrect_answers": [
+                "Proses fermentasi baru dimulai",
+                "Proses fermentasi belum selesai",
+                "Eco-Enzhyme masih perlu difermentasi lagi"
+            ],
+            "feedback_correct": "Benar, pada bulan ketiga dalam proses fermentasi pembuatan Eco-Enzhyme, Eco-Enzhyme sudah jadi dan siap digunakan.",
+            "feedback_incorrect": "Maaf, jawaban Anda salah. Pada bulan ketiga dalam proses fermentasi pembuatan Eco-Enzhyme, Eco-Enzhyme sudah jadi dan siap digunakan."
+        }
+    ]
+}
