@@ -45,7 +45,7 @@
         <div class="flex items-center justify-center mb-4">
             <button @click="handleNext()"
                 class="px-12 py-3 bg-green-500 text-white p-4 rounded-full hover:bg-green-600 transition duration-300 ease-out w-full md:w-1/3"
-                :class="{ invisible: !store.showAnswer }">Next</button>
+                :class="{ invisible: !store.showAnswer }">Selanjutnya</button>
         </div>
         <!-- End Quiz area -->
     </div>
