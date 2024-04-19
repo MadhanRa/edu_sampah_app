@@ -53,7 +53,7 @@ if (savedLevels) {
 }
 
 if (store.lastScore === 10 && currentLevels.value.includes(store.lastLevel)) {
-    if (!currentLevels.value.includes(store.lastLevel + 1) && currentLevels.value.length < 5) {
+    if (!currentLevels.value.includes(store.lastLevel + 1) && currentLevels.value.length < 3) {
         currentLevels.value.push(store.lastLevel + 1);
         localStorage.setItem("currentLevels", JSON.stringify(currentLevels.value));
     }
