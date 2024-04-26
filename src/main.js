@@ -3,15 +3,15 @@ import { createRouter, createWebHistory } from 'vue-router'
 import './assets/style.css'
 import App from './App.vue'
 import Home from '@/views/Home.vue'
-import StartScreen from '@/views/StartScreen.vue'
-import Quiz from '@/views/Quiz.vue'
-import Return from '@/views/Return.vue'
+// import StartScreen from '@/views/StartScreen.vue'
+// import Quiz from '@/views/Quiz.vue'
+// import Return from '@/views/Return.vue'
 
 const routes = [
     { path: '/', name: 'Home', component: Home },
-    { path: '/startScreen', name: 'Start Screen', component: StartScreen },
-    { path: '/quiz/:level', name: 'Quiz', component: Quiz },
-    { path: '/return', name: 'Return', component: Return },
+    { path: '/startScreen', name: 'Start Screen', component: () => import('@/views/StartScreen.vue') },
+    { path: '/quiz/:level', name: 'Quiz', component: () => import('@/views/Quiz.vue') },
+    { path: '/return', name: 'Return', component: () => import('@/views/Return.vue') },
 ]
 
 const router = createRouter({
@@ -20,9 +20,11 @@ const router = createRouter({
 })
 
 router.beforeEach((to, from, next) => {
-    if (to.path !== '/startScreen' && !localStorage.getItem('username')) {
-        next('/startScreen')
+    if (to.name !== 'Start Screen' && !localStorage.getItem('userData')) {
+        next({ name: 'Start Screen' })
     } else if (to.name === 'Quiz' && from.name !== 'Home') {
+        next({ name: 'Home' })
+    } else if (to.name === ' Return' && from.name !== 'Quiz') {
         next({ name: 'Home' })
     }
     else {

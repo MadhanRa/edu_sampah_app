@@ -1,0 +1,124 @@
+{
+    "results": [
+        {
+            "image_path": "/images/quiz_4/1.jpeg",
+            "question": "Apa yang merupakan bahan utama dalam pembuatan kompos?",
+            "correct_answer": "Sampah organik",
+            "incorrect_answers": [
+                "Kertas dan kardus",
+                "Botol plastik",
+                "Kaleng aluminium"
+            ],
+            "feedback_correct": "Benar! Sampah organik seperti sisa makanan dan dedaunan adalah bahan utama dalam pembuatan kompos karena mereka dapat diuraikan oleh mikroorganisme menjadi humus.",
+            "feedback_incorrect": "Maaf, jawaban kamu salah. Sampah organik seperti sisa makanan dan dedaunan adalah bahan utama dalam pembuatan kompos karena mereka dapat diuraikan oleh mikroorganisme menjadi humus."
+        },
+        {
+            "image_path": "/images/quiz_4/2.jpeg",
+            "question": "Apa yang dimaksud dengan dekomposisi dalam pembuatan kompos?",
+            "correct_answer": "Proses penguraian bahan organik menjadi humus oleh mikroorganisme",
+            "incorrect_answers": [
+                "Proses pembakaran sampah",
+                "Pengurangan jumlah sampah secara fisik",
+                "Pembuangan sampah ke sungai"
+            ],
+            "feedback_correct": "Yup, kamu benar! Dekomposisi adalah proses penguraian bahan organik seperti sisa makanan dan dedaunan menjadi humus oleh mikroorganisme seperti bakteri dan cacing tanah dalam pembuatan kompos.",
+            "feedback_incorrect": "Jawabanmu kurang tepat. Dekomposisi adalah proses penguraian bahan organik seperti sisa makanan dan dedaunan menjadi humus oleh mikroorganisme seperti bakteri dan cacing tanah dalam pembuatan kompos."
+        },
+        {
+            "image_path": "/images/quiz_4/3.jpeg",
+            "question": "Apa yang dibutuhkan oleh mikroorganisme dalam proses pembuatan kompos?",
+            "correct_answer": "Kelembaban, udara, dan suhu yang sesuai",
+            "incorrect_answers": [
+                "Cahaya matahari",
+                "Penggunaan bahan kimia",
+                "Penyiraman dengan air soda"
+            ],
+            "feedback_correct": "Bagus! Mikroorganisme membutuhkan kelembaban, udara, dan suhu yang sesuai untuk melakukan dekomposisi dengan baik dalam pembuatan kompos.",
+            "feedback_incorrect": "Salah, yang dibutuhkan oleh mikroorganisme adalah kelembaban, udara, dan suhu yang sesuai untuk melakukan dekomposisi dengan baik dalam pembuatan kompos."
+        },
+        {
+            "image_path": "/images/quiz_4/4.jpeg",
+            "question": "Apa yang harus dilakukan agar proses pembuatan kompos berjalan dengan baik?",
+            "correct_answer": "Memutar atau mencampur sampah secara berkala",
+            "incorrect_answers": [
+                "Membiarkan sampah teronggok tanpa diperhatikan",
+                "Menyiram sampah dengan bahan kimia",
+                "Menggunakan plastik sebagai wadah kompos"
+            ],
+            "feedback_correct": "Tepat sekali! Memutar atau mencampur sampah secara berkala membantu menjaga keseimbangan udara dan kelembaban dalam tumpukan kompos sehingga proses dekomposisi berjalan lancar.",
+            "feedback_incorrect": "Jawabanmu kurang tepat. Proses pembuatan kompos membutuhkan tindakan seperti memutar atau mencampur sampah secara berkala untuk menjaga keseimbangan udara dan kelembaban dalam tumpukan kompos."
+        },
+        {
+            "image_path": "/images/quiz_4/5.jpeg",
+            "question": "Apa manfaat dari penggunaan kompos?",
+            "correct_answer": "Meningkatkan kesuburan tanah dan mengurangi sampah",
+            "incorrect_answers": [
+                "Meningkatkan polusi udara",
+                "Meningkatkan risiko banjir",
+                "Meningkatkan penggunaan bahan bakar fosil"
+            ],
+            "feedback_correct": "Benar! Penggunaan kompos dapat meningkatkan kesuburan tanah karena mengandung nutrisi penting dan juga membantu mengurangi jumlah sampah yang masuk ke tempat pembuangan akhir.",
+            "feedback_incorrect": "Jawabanmu kurang tepat. Penggunaan kompos sebenarnya dapat meningkatkan kesuburan tanah dan mengurangi jumlah sampah yang masuk ke tempat pembuangan akhir."
+        },
+        {
+            "image_path": "/images/quiz_4/6.jpeg",
+            "question": "Apa yang dimaksud dengan 'matang' dalam konteks pembuatan kompos?",
+            "correct_answer": "Sampah yang telah terurai sepenuhnya dan siap digunakan sebagai pupuk",
+            "incorrect_answers": [
+                "Sampah yang baru saja dibuang",
+                "Sampah yang berbau tidak sedap",
+                "Sampah yang terbakar"
+            ],
+            "feedback_correct": "Tepat sekali! 'Matang' dalam konteks pembuatan kompos berarti sampah organik telah terurai sepenuhnya oleh mikroorganisme dan siap digunakan sebagai pupuk tanaman.",
+            "feedback_incorrect": "Jawabanmu kurang tepat. 'Matang' dalam konteks pembuatan kompos sebenarnya berarti sampah organik telah terurai sepenuhnya oleh mikroorganisme dan siap digunakan sebagai pupuk tanaman."
+        },
+        {
+            "image_path": "/images/quiz_4/7.jpeg",
+            "question": "Apa yang terjadi jika kompos tidak memiliki cukup udara?",
+            "correct_answer": "Proses dekomposisi akan berlangsung lambat atau bahkan terhenti",
+            "incorrect_answers": [
+                "Kompos akan menjadi terlalu basah",
+                "Kompos akan menjadi terlalu kering",
+                "Kompos akan menjadi berbau tidak sedap"
+            ],
+            "feedback_correct": "Yup, tepat sekali! Udara penting dalam proses dekomposisi kompos karena membantu mikroorganisme untuk melakukan metabolisme yang diperlukan untuk penguraian bahan organik.",
+            "feedback_incorrect": "Jawabanmu kurang tepat. Jika kompos tidak memiliki cukup udara, proses dekomposisi akan berlangsung lambat atau bahkan terhenti karena mikroorganisme memerlukan udara untuk melakukan metabolisme yang diperlukan untuk penguraian bahan organik."
+        },
+        {
+            "image_path": "/images/quiz_4/8.jpeg",
+            "question": "Apa peran cacing tanah dalam pembuatan kompos?",
+            "correct_answer": "Membantu mempercepat proses dekomposisi",
+            "incorrect_answers": [
+                "Membuat kompos berbau tidak sedap",
+                "Membuat kompos menjadi terlalu basah",
+                "Membuat kompos menjadi terlalu kering"
+            ],
+            "feedback_correct": "Benar! Cacing tanah adalah dekomposer yang efisien dalam pembuatan kompos karena mereka menguraikan bahan organik lebih cepat dan membuat struktur tanah yang baik.",
+            "feedback_incorrect": "Jawabanmu kurang tepat. Sebenarnya, peran cacing tanah dalam pembuatan kompos adalah membantu mempercepat proses dekomposisi karena mereka menguraikan bahan organik lebih cepat dan membuat struktur tanah yang baik."
+        },
+        {
+            "image_path": "/images/quiz_4/9.jpeg",
+            "question": "Apa yang dimaksud dengan 'cacing tanah merah' dalam konteks pembuatan kompos?",
+            "correct_answer": "Spesies cacing tanah yang sering digunakan dalam pembuatan kompos",
+            "incorrect_answers": [
+                "Wadah penyimpanan kompos berwarna merah",
+                "Pupuk kompos berwarna merah",
+                "Nama umum untuk tanaman penghasil kompos"
+            ],
+            "feedback_correct": "Yup, kamu benar! 'Cacing tanah merah' adalah sejenis cacing tanah yang sering digunakan dalam pembuatan kompos karena efisiensinya dalam menguraikan bahan organik.",
+            "feedback_incorrect": "Jawabanmu kurang tepat. 'Cacing tanah merah' sebenarnya adalah sejenis cacing tanah yang sering digunakan dalam pembuatan kompos karena efisiensinya dalam menguraikan bahan organik."
+        },
+        {
+            "image_path": "/images/quiz_4/10.jpeg",
+            "question": "Apa yang harus dilakukan untuk memulai pembuatan kompos di rumah?",
+            "correct_answer": "Memilih wadah yang sesuai dan memulai memasukkan sampah organik",
+            "incorrect_answers": [
+                "Membuang semua sampah ke tempat pembuangan akhir",
+                "Membeli pupuk kimia di toko",
+                "Memperbanyak pemakaian kantong plastik"
+            ],
+            "feedback_correct": "Tepat sekali! Untuk memulai pembuatan kompos di rumah, langkah pertama adalah memilih wadah yang sesuai dan mulai memasukkan sampah organik ke dalamnya untuk proses dekomposisi.",
+            "feedback_incorrect": "Jawabanmu kurang tepat. Untuk memulai pembuatan kompos di rumah, langkah pertama adalah memilih wadah yang sesuai dan mulai memasukkan sampah organik ke dalamnya untuk proses dekomposisi, bukan membuang sampah ke tempat pembuangan akhir."
+        }
+    ]
+}

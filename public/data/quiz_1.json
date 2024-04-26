@@ -1,6 +1,7 @@
 {
     "results": [
         {
+            "id": 1,
             "image_path": "/images/quiz_1/1.jpeg",
             "question": "Apa yang sedang dilakukan oleh anak dalam gambar?",
             "correct_answer": "Memilih sampah-sampah yang layak didaur ulang",
@@ -13,6 +14,7 @@
             "feedback_incorrect": "Jawaban Anda tidak tepat! Anak dalam gambar sedang melakukan tindakan positif dengan memilih sampah-sampah yang layak didaur ulang"
         },
         {
+            "id": 2,
             "image_path": "/images/quiz_1/2.jpeg",
             "question": "Apa dampak dari tumpukan sampah plastik di tepi pantai seperti yang terlihat dalam gambar?",
             "correct_answer": "Burung-burung terancam karena memakan sampah plastik",
@@ -25,6 +27,7 @@
             "feedback_incorrect": "Maaf, jawaban Anda tidak tepat. Tumpukan sampah plastik di tepi pantai dapat menyebabkan burung-burung terancam karena mereka dapat memakan sampah tersebut secara tidak sengaja."
         },
         {
+            "id": 3,
             "image_path": "/images/quiz_1/3.jpeg",
             "question": "Apa yang bisa dilakukan pria dalam gambar untuk mengurangi sampah plastik?",
             "correct_answer": "Menggunakan kantong belanja kain yang dapat digunakan berulang kali",
@@ -37,6 +40,7 @@
             "feedback_incorrect": "Maaf, jawaban Anda tidak tepat. Pria dalam gambar sebaiknya menggunakan kantong belanja kain yang dapat digunakan berulang kali untuk mengurangi penggunaan kantong plastik sekali pakai."
         },
         {
+            "id": 4,
             "image_path": "/images/quiz_1/4.jpeg",
             "question": "Apa yang dilakukan oleh pria dalam gambar?",
             "correct_answer": "Memilah sampah organik dan non-organik",
@@ -49,6 +53,7 @@
             "feedback_incorrect": "Maaf, jawaban Anda tidak tepat. Pria dalam gambar sedang melakukan tindakan positif dengan memilah sampah organik dan non-organik untuk pengelolaan sampah yang lebih baik."
         },
         {
+            "id": 5,
             "image_path": "/images/quiz_1/5.jpeg",
             "question": "Apa yang dapat dilakukan untuk mencegah pencemaran sungai seperti yang terlihat dalam gambar?",
             "correct_answer": "Melakukan kegiatan pembersihan sungai secara rutin",
@@ -61,6 +66,7 @@
             "feedback_incorrect": "Maaf, jawaban Anda tidak tepat. Untuk mencegah pencemaran sungai, salah satu tindakan yang dapat dilakukan adalah melakukan kegiatan pembersihan sungai secara rutin seperti yang terlihat dalam gambar."
         },
         {
+            "id": 6,
             "image_path": "/images/quiz_1/6.jpeg",
             "question": "Apa manfaat dari menggunakan botol air minum reusable seperti yang terlihat dalam gambar?",
             "correct_answer": "Menjaga lingkungan dari polusi plastik",
@@ -73,6 +79,7 @@
             "feedback_incorrect": "Maaf, jawaban Anda tidak tepat. Menggunakan botol air minum reusable seperti yang terlihat dalam gambar dapat membantu menjaga lingkungan dari polusi plastik dengan mengurangi penggunaan botol plastik sekali pakai."
         },
         {
+            "id": 7,
             "image_path": "/images/quiz_1/7.jpeg",
             "question": "Apa yang dapat dilakukan oleh masyarakat untuk menjaga kebersihan pantai?",
             "correct_answer": "Melakukan kegiatan pembersihan pantai secara rutin",
@@ -85,6 +92,7 @@
             "feedback_incorrect": "Maaf, jawaban Anda tidak tepat. Salah satu tindakan yang dapat dilakukan oleh masyarakat untuk menjaga kebersihan pantai adalah dengan melakukan kegiatan pembersihan pantai secara rutin seperti yang terlihat dalam gambar."
         },
         {
+            "id": 8,
             "image_path": "/images/quiz_1/8.jpeg",
             "question": "Apa manfaat penggunaan kompos dari sampah organik seperti yang terlihat dalam gambar?",
             "correct_answer": "Meningkatkan kesuburan tanah",
@@ -97,6 +105,7 @@
             "feedback_incorrect": "Maaf, jawaban Anda tidak tepat. Salah satu manfaat penggunaan kompos dari sampah organik adalah meningkatkan kesuburan tanah untuk pertanian seperti yang terlihat dalam gambar."
         },
         {
+            "id": 9,
             "image_path": "/images/quiz_1/9.jpeg",
             "question": "Apa pesan yang ingin disampaikan oleh gambar tersebut?",
             "correct_answer": "Pentingnya membuang sampah pada tempatnya",
@@ -109,6 +118,7 @@
             "feedback_incorrect": "Maaf, jawaban Anda tidak tepat. Pesan yang ingin disampaikan oleh gambar adalah pentingnya membuang sampah pada tempatnya untuk menjaga kebersihan lingkungan."
         },
         {
+            "id": 10,
             "image_path": "/images/quiz_1/10.jpeg",
             "question": "Apa yang dapat dilakukan oleh individu untuk mencegah sampah plastik masuk ke selokan?",
             "correct_answer": "Melakukan kegiatan pembersihan selokan secara rutin dan edukasi masyarakat sekitar",

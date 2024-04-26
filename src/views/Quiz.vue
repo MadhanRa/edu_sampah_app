@@ -22,7 +22,7 @@
 
             </div>
             <div v-else class="max-w-2xl">
-                <img :src="store.data.results[store.currentQuestion].image_path" alt="Quiz Image"
+                <img :src="store.data.results[store.currentQuestion].image_path" alt="Quiz image"
                     class="object-cover w-full h-full">
             </div>
 

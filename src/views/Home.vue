@@ -4,15 +4,17 @@
         <div class="flex flex-col p-2 justify-center items-center">
             <img src="@/assets/images/Logo Icon.png" alt="Icon Image" class="object-cover w-28 sm:w-40 animate-bounce">
             <div class="text-center mb-2 sm:mb-4 text-gray-700">
-                <h3 class="text-xl sm:text-2xl font-bold">Selamat datang <span class="text-green-500">{{ username
+                <h3 class="text-xl sm:text-2xl font-bold">Selamat datang <span class="text-green-500">{{
+                    userData.username
                         }}</span>!</h3>
+                <h3 class="font-bold">{{ userData.tingkat }} Kelas {{ userData.kelas }}</h3>
                 <h4>Pilih level mu</h4>
             </div>
         </div>
 
         <div class="flex flex-col gap-y-2 min-h-10">
             <button v-for="level in levels" :key="level" :disabled="!isLevelEnabled(level)" @click="startQuiz(level)"
-                class="text-green-600 px-8 py-3 sm:py-4 border-solid tracking-widest hover:bg-green-600  disabled:hover:bg-gray-200 disabled:backdrop-blur-sm disabled:text-gray-400 disabled:border-gray-300 hover:text-slate-200 bg-gray-200 rounded-full bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-40 border-2 border-green-600 transition duration-300 ease-out">
+                class="text-green-600 px-8 py-3 sm:py-4 border-solid tracking-widest hover:bg-green-600  disabled:hover:bg-gray-200 disabled:backdrop-blur-sm disabled:text-gray-400 disabled:border-gray-300 hover:text-slate-200 bg-gray-200 rounded-full bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-40 border-2 border-green-600 transition ease-out">
                 Level {{ level }} <span class="" v-show="isLevelEnabled(level)">- {{ descLevel[level] }}</span>
             </button>
         </div>
@@ -29,8 +31,13 @@ const router = useRouter();
 
 store.restartQuiz();
 
-const username = ref(localStorage.getItem("username"));
-const levels = ref([5, 4, 3, 2, 1]);
+if (localStorage.getItem('username')) {
+    localStorage.removeItem('username')
+    localStorage.removeItem('currentLevels')
+}
+
+const userData = ref(JSON.parse(localStorage.getItem("userData")));
+const levels = ref([3, 2, 1]);
 const descLevel = ref({
     1: "Kesadaran Awal Terhadap Sampah",
     2: "Memilah dan Mengelola Sampah",

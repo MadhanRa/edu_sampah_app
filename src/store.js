@@ -10,6 +10,7 @@ export const store = reactive({
     data: null,
     loading: true,
     currentQuestion: 0,
+    answerHistory: [],
     showAnswer: false,
     incrementScore() {
         this.score++
@@ -20,13 +21,13 @@ export const store = reactive({
         this.quizEnded = false
         this.data = null
         this.loading = true
+        this.answerHistory = []
     },
     setQuestionCount(count) {
         this.questionCount = count
     },
     async getData(level) {
         this.lastLevel = parseInt(level)
-        // this.loading = true;
         try {
             const response = await fetch(`/data/quiz_${this.lastLevel}.json`);
             if (!response.ok) {
@@ -49,17 +50,24 @@ export const store = reactive({
         }
     },
     checkAnswer(answer) {
+        const answerItem = {
+            id: this.data.results[this.currentQuestion].id,
+            answer: answer,
+            status: ''
+        }
         if (this.data.results[this.currentQuestion].correct_answer === answer) {
             this.incrementScore()
             this.data.results[this.currentQuestion].guessedRight = true;
-            this.lastScore = this.score
             this.showAnswer = true
-            return
+            answerItem.status = 'correct'
         } else {
             this.data.results[this.currentQuestion].guessedRight = false
             this.showAnswer = true
+            answerItem.status = 'incorrect'
         }
-
+        this.answerHistory.push(answerItem)
+        this.lastScore = this.score
+        return
     },
     getNextQuestion() {
         if (this.currentQuestion == this.data.results.length - 2) {
