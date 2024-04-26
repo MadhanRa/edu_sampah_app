@@ -127,7 +127,8 @@
                 "Menggunakan plastik sekali pakai lebih praktis dan efisien.",
                 "Menggunakan plastik sekali pakai tidak berdampak buruk bagi lingkungan."
             ],
-            "feedback_correct": "Anda benar! Mengurangi penggunaan plastik sekali pakai adalah langkah penting dalam menjaga lingkungan."
+            "feedback_correct": "Anda benar! Menggunakan tas belanja kain, menghindari penggunaan sedotan plastik, dan memilih produk yang memiliki kemasan ramah lingkungan akan mengurangi penggunaan plastik sekali pakai.",
+            "feedback_incorrect": "Maaf, jawaban Anda salah. Mengurangi penggunaan plastik sekali pakai adalah dengan menggunakan alternatif lain selain plastik dan memilih produk yang ramah lingkungan."
         }
     ]
 }
