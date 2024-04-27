@@ -95,10 +95,11 @@ const handleReturn = () => {
         <div class="flex flex-col items-center gap-y-5">
             <!-- success save modal -->
             <div
-                class="p-4 bg-gray-200 rounded-md bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-40 border border-gray-200">
-                <h1 class="text-center text-lg font-medium">Anda mendapatkan {{ store.score }} pertanyaan benar dari
+                class="p-4 bg-gray-200 rounded-md bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-40 border border-gray-200 text-center">
+                <h1 class="text-lg font-medium">Anda mendapatkan {{ store.score }} pertanyaan benar dari
                     {{ questionCount }} pertanyaan.</h1>
-                <h5>Selesaikan 10 pertanyaan dengan benar untuk ke level berikutnya</h5>
+                <h5 class="mt-4 text-xs text-gray-600">Selesaikan 10 pertanyaan dengan benar untuk ke level berikutnya
+                </h5>
             </div>
             <div v-if="responseMsg"
                 class="p-4 bg-green-200 rounded-md bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-40 border border-green-200">

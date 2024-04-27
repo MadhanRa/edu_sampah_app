@@ -12,7 +12,7 @@
         <!-- Image Area -->
         <div
             class="flex grow overflow-hidden justify-center items-center bg-gray-200 rounded-md bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-40 border border-gray-100">
-            <div v-if="store.showAnswer" class="text-center transitio p-2">
+            <div v-if="store.showAnswer" class="text-center transitio p-6">
                 <div v-if="store.data.results[store.currentQuestion].guessedRight">
                     <h4 v-html="store.data.results[store.currentQuestion].feedback_correct"></h4>
                 </div>

@@ -34,6 +34,7 @@ store.restartQuiz();
 if (localStorage.getItem('username')) {
     localStorage.removeItem('username')
     localStorage.removeItem('currentLevels')
+    router.push('/')
 }
 
 const userData = ref(JSON.parse(localStorage.getItem("userData")));
